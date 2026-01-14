@@ -1,0 +1,10 @@
+langchain>=0.2.0
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+pgvector
+psycopg2-binary
+pypdf
+python-dotenv
